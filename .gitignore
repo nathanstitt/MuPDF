@@ -1,4 +1,5 @@
 *.gem
+ext/mupdf_ext/mkmf.log
 *.rbc
 .bundle
 .config
